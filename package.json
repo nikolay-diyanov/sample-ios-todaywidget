@@ -1,0 +1,8 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.sampleiostodaywidget"
+  },
+  "dependencies": {
+    "nativescript-telerik-ui": "0.0.8"
+  }
+}
