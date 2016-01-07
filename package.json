@@ -1,5 +1,11 @@
 {
 	"nativescript": {
-		"id": "org.nativescript.sampleiostodaywidget"
+		"id": "org.nativescript.sampleiostodaywidget",
+		"tns-ios": {
+			"version": "1.5.2"
+		}
+	},
+	"dependencies": {
+		"tns-core-modules": "1.5.0"
 	}
 }
